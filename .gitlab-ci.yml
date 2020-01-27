@@ -13,9 +13,11 @@ pages:
   script:
     - npm install
     - npm run build
+    - mkdir public
+    - mv dist/* public
   artifacts:
     paths:
-      - dist
+      - public
     expire_in: 1 days
   only:
     - master
