@@ -15,7 +15,7 @@ pages:
     - npm run build
   artifacts:
     paths:
-      - public
+      - dist
     expire_in: 1 days
   only:
     - master
