@@ -29,14 +29,14 @@ $( function() {
   } );
 
   // jQuery for page scrolling feature - requires jQuery Easing plugin
-  $( 'a.page-scroll' ).bind( 'click', function( event ) {
-    var href = $( this ).attr( 'href' );
-    $( 'html, body' ).stop().animate( {
-      scrollTop: $( href ).offset().top
-    }, 1500, 'easeInOutExpo' );
-    history.pushState( {}, '', href );
-    event.preventDefault();
-  } );
+  // $( 'a.page-scroll' ).bind( 'click', function( event ) {
+  //   var href = $( this ).attr( 'href' );
+  //   $( 'html, body' ).stop().animate( {
+  //     scrollTop: $( href ).offset().top
+  //   }, 1500, 'easeInOutExpo' );
+  //   history.pushState( {}, '', href );
+  //   event.preventDefault();
+  // } );
 
   // Highlight the top nav as scrolling occurs
   $( 'body' ).scrollspy( {
