@@ -4,36 +4,36 @@ You may [contact us](mailto:florian@game-jam.at) anytime.
 
 <br>
 
-| Medieninhaber und Herausgeber | Fachhochschule Salzburg GmbH |
-| :- | :- |
-| Adresse | Urstein Süd 1 |
-|| A-5412 Puch/Salzburg |
-|| Österreich |
-| Telefon | [+43-(0)50-2211-0](tel:00435022110) |
-| Fax | [+43-(0)50-2211-1099](fax:00435022111099) |
-| E-Mail | [hannes.moser@fh-salzburg.ac.at](mailto:hannes.moser@fh-salzburg.ac.at) |
-| Web | [fh-salzburg.ac.at](http://www.fh-salzburg.ac.at) |
-| UID | ATU 44554503 |
-| Firmenbuchnummer | FN 166054y |
-| Firmenbuchgericht | Landesgericht Salzburg |
-| Geschäftsführung | Mag. Dr. Doris Walter, Mag. Raimund Ribitsch |
-| DVR Nummer | 0946281 |
+| Medieninhaber und Herausgeber | &nbsp;Fachhochschule Salzburg GmbH                                      |
+| :---------------------------- | :---------------------------------------------------------------------- |
+| Adresse                       | Urstein Süd 1                                                           |
+|                               | A-5412 Puch/Salzburg                                                    |
+|                               | Österreich                                                              |
+| Telefon                       | [+43-(0)50-2211-0](tel:00435022110)                                     |
+| Fax                           | [+43-(0)50-2211-1099](fax:00435022111099)                               |
+| E-Mail                        | [hannes.moser@fh-salzburg.ac.at](mailto:hannes.moser@fh-salzburg.ac.at) |
+| Web                           | [fh-salzburg.ac.at](http://www.fh-salzburg.ac.at)                       |
+| UID                           | ATU 44554503                                                            |
+| Firmenbuchnummer              | FN 166054y                                                              |
+| Firmenbuchgericht             | Landesgericht Salzburg                                                  |
+| Geschäftsführung              | Mag. Dr. Doris Walter, Mag. Raimund Ribitsch                            |
+| DVR Nummer                    | 0946281                                                                 |
 
 <br>
 
 Für den Inhalt der Website verantwortlich:
 
-| Contact   | Florian Jindra
-| :-------- | :-
-| Twitter   | [@GamesWorkshopS](https://twitter.com/GamesWorkshopS)
-| Email     | [florian.jindra@fh-salzburg.ac.at](mailto:florian.jindra@fh-salzburg.ac.at)
-| Phone(AT) | [+436769032416](tel:00436769032416)
+| Contact   | Florian Jindra                                                              |
+| :-------- | :-------------------------------------------------------------------------- |
+| Twitter   | [@GamesWorkshopS](https://twitter.com/GamesWorkshopS)                       |
+| Email     | [florian.jindra@fh-salzburg.ac.at](mailto:florian.jindra@fh-salzburg.ac.at) |
+| Phone(AT) | [+436769032416](tel:00436769032416)                                         |
 
 <br>
 
 #### Haftungsausschluss
 
-Die Zusammenstellung der Informationen auf dieser Website wurde mit größtmöglicher Sorgfalt vorgenommen. Dennoch kann keinerlei Gewähr für Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen und Daten übernommen werden. Haftungsansprüche gegen die Fachhochschule Salzburg GmbH oder die Autoren bzw. Verantwortlichen dieser Website für Schäden materieller oder  immaterieller Art, die auf fehlerhaften oder unvollständigen Informationen und Daten beruhen, sind, soweit nicht Vorsatz oder grobe Fahrlässigkeit vorliegt, ausgeschlossen. Links zu anderen Webseiten wurden sorgfältig ausgewählt. Da die Fachhochschule Salzburg GmbH auf deren Inhalt keinen Einfluss hat, wird die Haftung, soweit rechtlich möglich, ausgeschlossen.
+Die Zusammenstellung der Informationen auf dieser Website wurde mit größtmöglicher Sorgfalt vorgenommen. Dennoch kann keinerlei Gewähr für Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen und Daten übernommen werden. Haftungsansprüche gegen die Fachhochschule Salzburg GmbH oder die Autoren bzw. Verantwortlichen dieser Website für Schäden materieller oder immaterieller Art, die auf fehlerhaften oder unvollständigen Informationen und Daten beruhen, sind, soweit nicht Vorsatz oder grobe Fahrlässigkeit vorliegt, ausgeschlossen. Links zu anderen Webseiten wurden sorgfältig ausgewählt. Da die Fachhochschule Salzburg GmbH auf deren Inhalt keinen Einfluss hat, wird die Haftung, soweit rechtlich möglich, ausgeschlossen.
 
 #### Datenschutzhinweis von Google Analytics
 
